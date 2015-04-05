@@ -41,7 +41,7 @@ public class Test {
             }
             scanner.close();
             analyzeMemcache.disConnect();
-            System.out.println("finish");
+            System.out.println("finish task");
             System.out.println("*****************************************");
             System.exit(0);
             // analyzeMemcache.execute("stats cachedump 2 0");
